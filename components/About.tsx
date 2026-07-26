@@ -18,7 +18,7 @@ export default function About() {
             
             <div className="space-y-6 text-gray-400 text-sm md:text-base leading-relaxed font-light">
               <p className="border-l-2 border-horror-blood pl-4 italic bg-horror-darkRed/10 py-2 text-gray-300">
-                &quot;Olivia’s Nightmares dibuat sebagai game horor yang berfokus pada ketegangan psikologis. Pemain akan masuk ke dalam alam bawah sadar karakter bernama Olivia yang dipenuhi oleh ketakutan.&quot;
+                &quot;Olivia’s Nightmares dibuat sebagai game horor yang berfokus pada psikologis yang terganggu dan nuansa menegangka. Pemain akan masuk ke dalam alam bawah sadar karakter bernama Olivia yang dipenuhi oleh ketakutan.&quot;
               </p>
               <p>
                 Sebagai game <strong className="text-white font-medium">First-Person Survival Horror</strong>, Anda harus menjelajahi area mimpi buruk yang menegangkan untuk mencari beberapa kunci rahasia yang merupakan satu-satunya jalan untuk membuka pintu keluar dan terbangun.
